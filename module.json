@@ -15,7 +15,7 @@
     "verified": "12.343"
   },
   "description": "The one stop shop for creating your heroes in D&D 5e.",
-  "download": "",
+  "download": "https://github.com/Sayshal/hero-mancer/releases/download/1.5.3/module.zip",
   "esmodules": [
     "scripts/app/HeroMancer.js",
     "scripts/hero-mancer.js",
@@ -107,5 +107,5 @@
   ],
   "title": "Hero Mancer",
   "url": "https://github.com/Sayshal/hero-mancer",
-  "version": ""
+  "version": "1.5.3"
 }
